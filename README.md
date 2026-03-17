@@ -96,7 +96,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github.com/shaikhaamann/shaikhaamann/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/shaikhaamann/shaikhaamann/.github/workflows/snake.svg" />
 
 </div>
 
