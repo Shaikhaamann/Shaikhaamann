@@ -1,27 +1,27 @@
-name: Generate Pacman Contribution
+name: Generate Snake Animation
 
 on:
   schedule:
-  - cron: "0 0 * * *"
+    - cron: "0 0 * * *"
      workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+    generate:
+      runs-on: ubuntu-latest
 
 steps:
-  - uses: actions/checkout@v3
+  - name: Checkout Repository
+    uses: actions/checkout@v3
 
-  - name: Generate Pacman Animation
+  - name: Generate Snake
     uses: Platane/snk@v3
     with:
       github_user_name: shaikhaamann
       outputs: |
-        dist/pacman-contribution.svg
+        dist/github-contribution-grid-snake.svg
 
-  - name: Push to branch
+  - name: Push Snake to Branch
     uses: crazy-max/ghaction-github-pages@v3
     with:
       target_branch: output
       build_dir: dist
-
