@@ -1,66 +1,54 @@
 <div align="center">
 
-# 🚀 Aaman Shaikh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00c6ff,100:0072ff&height=200&section=header&text=Aaman%20Shaikh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=60&descSize=18"/>
 
-### 💻 DevOps Engineer | Cloud | Automation
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+in+Progress;Docker+%7C+Kubernetes+%7C+AWS;CI%2FCD+Pipeline+Builder;Automation+First+Mindset;Future+Cloud+Architect" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=140&section=header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+in+Progress;Building+CI%2FCD+Pipelines;Docker+%7C+Kubernetes+%7C+AWS;Automation+%2B+Cloud+Enthusiast;Future+SRE+%26+Cloud+Architect"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 DevOps Identity
 
 ```yaml
 Name: Aaman Shaikh
-Role: DevOps Engineer (In Progress 🚀)
+Role: DevOps Engineer (Learning & Building 🚀)
 Location: Pune, India 🇮🇳
-Education: MCA (2026)
 
-Interests:
-  - Cloud Computing ☁️
-  - DevOps Automation ⚙️
-  - Kubernetes & Containers 🐳
-  - CI/CD Pipelines 🚀
+Core Focus:
+  - CI/CD Pipelines ⚙️
+  - Cloud Infrastructure ☁️
+  - Containerization 🐳
+  - Kubernetes Orchestration ☸️
 
-Current Focus:
-  - Building real-world DevOps projects
-  - Learning Kubernetes, Terraform, AWS
-  - Automating deployments
-
-Mindset: "Automate Everything. Scale Anything."
+Philosophy:
+  "Automate Everything. Scale Anything."
 ```
 
 ---
 
-## ⚙️ Animated DevOps Lifecycle
+## ⚙️ DevOps Pipeline Architecture
 
 ```mermaid
 flowchart LR
-    A[👨‍💻 Code] -->|Push| B[📦 GitHub]
-    B -->|Trigger| C[⚙️ GitHub Actions]
-    C -->|Build| D[🐳 Docker Image]
-    D -->|Push| E[📤 DockerHub]
-    E -->|Deploy| F[☸️ Kubernetes]
-    F -->|Monitor| G[📊 Prometheus]
-    G -->|Visualize| H[📈 Grafana]
-    H -->|Scale| I[🚀 Auto Scaling]
+    A[💻 Code] --> B[📦 GitHub]
+    B --> C[⚙️ CI/CD Pipeline]
+    C --> D[🐳 Docker Build]
+    D --> E[📤 DockerHub]
+    E --> F[☸️ Kubernetes]
+    F --> G[📊 Monitoring]
+    G --> H[🚀 Auto Scaling]
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### ⚙️ DevOps Tools
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,github,aws,terraform,linux,git,nginx" />
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,github,aws,terraform,linux,git" />
-
-### 💻 Programming
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 
@@ -68,23 +56,21 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Analytics
+## 📡 DevOps Metrics Dashboard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaikhaamann&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shaikhaamann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhaamann&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=shaikhaamann&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Activity & Streak
+## 📈 Contribution Intelligence
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shaikhaamann&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhaamann&theme=tokyo-night&hide_border=true"/>
 
@@ -92,34 +78,31 @@ flowchart LR
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 DevOps Activity Engine
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikhaamann/shaikhaamann/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaikhaamann/shaikhaamann/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shaikhaamann/shaikhaamann/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
----
-
-## 🐳 DevOps Badges
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge\&logo=github-actions)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
+<img src="https://raw.githubusercontent.com/Shaikhaamann/Shaikhaamann/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ System Status
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-Running-2496ED?style=for-the-badge\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Active-326CE5?style=for-the-badge\&logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/CI/CD-Operational-2088FF?style=for-the-badge\&logo=github-actions)
+![AWS](https://img.shields.io/badge/AWS-Deployed-FF9900?style=for-the-badge\&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-Stable-FCC624?style=for-the-badge\&logo=linux)
+
+</div>
+
+---
+
+## 🌐 Network Links
 
 <div align="center">
 
@@ -135,11 +118,11 @@ flowchart LR
 
 ---
 
-## 👀 Profile Views
+## 👀 Profile Monitoring
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shaikhaamann&color=00F7FF&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=shaikhaamann&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
@@ -147,8 +130,8 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00F7FF&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00c6ff,100:0072ff&height=150&section=footer"/>
 
-### ⚡ SYSTEM STATUS: RUNNING 🚀
+### ⚡ SYSTEM ONLINE — READY FOR DEPLOYMENT 🚀
 
 </div>
