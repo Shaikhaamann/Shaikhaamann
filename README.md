@@ -96,7 +96,11 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github.com/shaikhaamann/shaikhaamann/blob/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikhaamann/shaikhaamann/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaikhaamann/shaikhaamann/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shaikhaamann/shaikhaamann/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ---
