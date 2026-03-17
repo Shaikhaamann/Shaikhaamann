@@ -1,23 +1,31 @@
-name: Generate Snake Animation
+name: Generate Cyber Snake 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+  - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+    
+      - name: Generate Snake Animation (Neon Style)
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+            dist/github-snake.svg?color_snake=00f7ff&color_dots=#0d1117,#001f3f,#003f7f,#005fbf,#007fff
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=00f7ff
+    
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
