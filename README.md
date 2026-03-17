@@ -1,48 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00c6ff,100:0072ff&height=200&section=header&text=Aaman%20Shaikh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Aaman%20Shaikh&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20Automation&descAlignY=65"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+in+Progress;Building+CI%2FCD+Pipelines;Docker+%7C+Kubernetes+%7C+AWS;Automation+%2B+Cloud+Enthusiast;Future+SRE+%26+Cloud+Architect"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=DevOps+Engineer+in+Progress;CI%2FCD+Pipeline+Builder;Docker+%7C+Kubernetes+%7C+AWS;Infrastructure+as+Code+Learner;Always+Automating+Things"/>
 
 </div>
 
 ---
 
-## 🧠 DevOps Identity
+## 🧠 DevOps Profile
 
 ```yaml
 Name: Aaman Shaikh
-Role: DevOps Engineer (Learning & Building 🚀)
+Role: DevOps Engineer (Learning Phase 🚀)
 Location: Pune, India 🇮🇳
 
-Core Focus:
+Specialization:
   - CI/CD Pipelines ⚙️
   - Cloud Infrastructure ☁️
   - Containerization 🐳
-  - Kubernetes Orchestration ☸️
+  - Kubernetes ☸️
 
-Philosophy:
-  "Automate Everything. Scale Anything."
+Vision:
+  Build scalable, automated, production-ready systems
 ```
 
 ---
 
-## ⚙️ DevOps Pipeline Architecture
+## ⚙️ System Architecture
 
 ```mermaid
 flowchart LR
-    A[💻 Code] --> B[📦 GitHub]
-    B --> C[⚙️ CI/CD Pipeline]
-    C --> D[🐳 Docker Build]
+    A[💻 Developer] --> B[📦 GitHub Repo]
+    B --> C[⚙️ GitHub Actions]
+    C --> D[🐳 Docker Image]
     D --> E[📤 DockerHub]
-    E --> F[☸️ Kubernetes]
-    F --> G[📊 Monitoring]
-    G --> H[🚀 Auto Scaling]
+    E --> F[☸️ Kubernetes Cluster]
+    F --> G[📊 Monitoring Stack]
+    G --> H[🚀 Auto Scaling System]
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Ecosystem
 
 <div align="center">
 
@@ -56,19 +56,65 @@ flowchart LR
 
 ---
 
-## 📡 DevOps Metrics Dashboard
+## 🚀 DevOps Projects Showcase
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaikhaamann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://streak-stats.demolab.com?user=shaikhaamann&theme=tokyonight&hide_border=true"/>
+### 🔧 CI/CD Pipeline
+
+Automated build & deployment using GitHub Actions + Docker
+
+</td>
+
+<td width="50%">
+
+### ☸️ Kubernetes Setup
+
+Local cluster using Kind + kubectl
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐳 Docker Deployment
+
+Containerized portfolio & apps
+
+</td>
+
+<td width="50%">
+
+### ☁️ Cloud Setup (Learning)
+
+AWS + Terraform (in progress)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 Contribution Intelligence
+## 📊 System Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shaikhaamann&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhaamann&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Insights
 
 <div align="center">
 
@@ -78,31 +124,31 @@ flowchart LR
 
 ---
 
-## 🐍 DevOps Activity Engine
+## 🐍 Automation Activity (Snake Engine)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shaikhaamann/Shaikhaamann/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaikhaamann/Shaikhaamann/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaikhaamann/Shaikhaamann/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shaikhaamann/Shaikhaamann/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+
+---
+
+## 📦 Productivity Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaikhaamann&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## ⚡ System Status
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-Running-2496ED?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Active-326CE5?style=for-the-badge\&logo=kubernetes)
-![CI/CD](https://img.shields.io/badge/CI/CD-Operational-2088FF?style=for-the-badge\&logo=github-actions)
-![AWS](https://img.shields.io/badge/AWS-Deployed-FF9900?style=for-the-badge\&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-Stable-FCC624?style=for-the-badge\&logo=linux)
-
-</div>
-
----
-
-## 🌐 Network Links
+## 🌐 Connect Layer
 
 <div align="center">
 
@@ -128,10 +174,20 @@ flowchart LR
 
 ---
 
+## 😂 Dev Humor (because DevOps needs patience)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00c6ff,100:0072ff&height=150&section=footer"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
-### ⚡ SYSTEM ONLINE — READY FOR DEPLOYMENT 🚀
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00c6ff&height=150&section=footer"/>
+
+### ⚡ SYSTEM ACTIVE — DEPLOYMENT READY 🚀
 
 </div>
