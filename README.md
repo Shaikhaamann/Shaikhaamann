@@ -156,8 +156,13 @@ AWS + Terraform (in progress)
 
 <div align="center">
 
+<a href="https://shaikhaamann.github.io/My_portfolio_using_github_action/">
+<img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=Portfolio"/>
+</a>
+
+
 <a href="https://www.linkedin.com/in/aaman-shaikh-3a95ba235">
-<img src="https://img.shields.io/badge/LinkedIn-Aaman%20Shaikh-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Aaman%20Shaikh-green?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:shaikhaaman600@gmail.com">
