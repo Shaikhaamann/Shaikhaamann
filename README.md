@@ -157,7 +157,7 @@ AWS + Terraform (in progress)
 <div align="center">
 
 <a href="https://shaikhaamann.github.io/My_portfolio_using_github_action/">
-<img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=Portfolio"/>
+<img src="https://img.shields.io/badge/website-Porfolio-blue?style=for-the-badge&logo=Portfolio"/>
 </a>
 
 
